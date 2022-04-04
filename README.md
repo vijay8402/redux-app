@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+#need to revise to understand react basis.
+what is props
+make component.
+pass data 1 component to other component.
+get data with props.
+
+
+
+#install react app
+#npx create-react-app redux-app
+#npm install redux
+#npm install react-redux
+
+
+#redux flow essentails 
+component
+containers
+services  
+    actions
+    reducers
+    constants
