@@ -93,3 +93,15 @@ services
     actions
     reducers
     constants
+
+what is action
+make function in ation file
+Add constant and use constant in action.
+
+
+
+
+connect redux with react
+import react-redux action and component
+use mapDispatchToProps
+use mapStateToProps
